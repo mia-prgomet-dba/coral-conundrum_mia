@@ -1,6 +1,5 @@
 # Coral Conundrum 
 
-## What is this?
 Analysis of the decline in coral reef fish word frequency around 1998.
 
 ## Goal
